@@ -1,0 +1,8 @@
+D:\visualstudio2015\rahuvati\rahuvati\bin\Debug\rahuvati.exe.config
+D:\visualstudio2015\rahuvati\rahuvati\bin\Debug\rahuvati.exe
+D:\visualstudio2015\rahuvati\rahuvati\bin\Debug\rahuvati.pdb
+D:\visualstudio2015\rahuvati\rahuvati\bin\Debug\MathNet.Numerics.dll
+D:\visualstudio2015\rahuvati\rahuvati\bin\Debug\MathNet.Numerics.xml
+D:\visualstudio2015\rahuvati\rahuvati\obj\Debug\rahuvati.exe
+D:\visualstudio2015\rahuvati\rahuvati\obj\Debug\rahuvati.pdb
+D:\visualstudio2015\rahuvati\rahuvati\obj\Debug\rahuvati.csprojResolveAssemblyReference.cache
