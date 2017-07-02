@@ -6,10 +6,16 @@ using System.Threading.Tasks;
 
 namespace rahuvati
 {
-    class Class3
+    class Test
     {
 
-        fsfsfsd
+        public int Multiply(ref int a , ref int b)
+        {
+            return a * b;
+        }
 
+
+
+       
     }
 }
